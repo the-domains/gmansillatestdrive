@@ -1,0 +1,14 @@
+layout_spectrum: 0.9145004
+typography_spectrum: 0.1866898
+color:
+  saturation: 0.3925788
+  lightness: 0.9442338
+  brandStrength: 0.9646673
+  rhythmicContrast: 0.2705758
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: GMansillaTestDrive
