@@ -1,14 +1,26 @@
-layout_spectrum: 0.9145004
-typography_spectrum: 0.1866898
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1042553
 color:
-  saturation: 0.3925788
+  saturation: 0.9531915
+  brandStrength: 0.9297872
   lightness: 0.9442338
-  brandStrength: 0.9646673
-  rhythmicContrast: 0.2705758
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#7ACFFE'
+    - '#0D131F'
+    - '#FEFF91'
+    - '#6E88A1'
+    - '#6A584D'
+  rhythmicContrast: 0.8276595
+layout_spectrum: 1
 name: GMansillaTestDrive
