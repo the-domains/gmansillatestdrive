@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.1042553
 color:
-  saturation: 0.4382979
+  saturation: 0
   brandStrength: 0.06170213
-  lightness: 0.4531915
+  lightness: 0.1744681
   brandColors:
     - '#7ACFFE'
     - '#0D131F'
     - '#FEFF91'
     - '#6E88A1'
     - '#6A584D'
-  rhythmicContrast: 0.2085106
-typography_spectrum: 0.1042553
+  rhythmicContrast: 0.04468085
 layout_spectrum: 0.4914894
 name: GMansillaTestDrive
